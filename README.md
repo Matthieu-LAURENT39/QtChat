@@ -6,5 +6,5 @@ It was coded in under 24h to learn PySide and socket.io
 - Server-Client model
 - Automatic discovery of servers on LAN via broadcasting
 - Use of websockets with automatic reconnection
-- Simple commands (kick, ban, etc...)
+- Simple commands (kick or ban by ip/hostname/username, roll a dice, flip a coin, etc...)
 - Unique color for each user thanks to [distinctipy](https://github.com/alan-turing-institute/distinctipy)
